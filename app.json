@@ -65,13 +65,13 @@
     "AUTO_READ":
     {
       "description":"Your contact  will be reading messages automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"no",
+      "value":"yes",
       "required":false   
       },
      "PM_PERMIT" :
      {
       "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"no",
+      "value":"yes",
       "required":false
     }
     ,
@@ -118,7 +118,7 @@
     
     "desc": "Owner name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "Zarab Baloch "
   },
     "SESSION_ID":{
     "description":"put your session ID , the code you received from from ibrahim adams site",   
